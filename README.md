@@ -8,6 +8,6 @@ Py2Exe : http://www.py2exe.org/
 PyInstaller-auto-py-to-exe : https://github.com/brentvollebregt/auto-py-to-exe
 Nuitka : https://nuitka.net/
 bbfreeze : https://pypi.org/project/bbfreeze/
-PyInstaller-hooks-contrib : https://github.com/pyinstaller/pyinstaller-hooks-contrib
+PyInstaller-hooks-contrib: https://github.com/pyinstaller/pyinstaller-hooks-contrib
 
 Chacune de ces alternatives a ses avantages et inconvénients, et certaines peuvent être plus adaptées à votre cas d'utilisation que d'autres. Il est recommandé de les essayer pour voir laquelle fonctionne le mieux pour votre application.
